@@ -1,1 +1,2 @@
-# resume
+As Azure Data Engineer:
+An achievement-oriented <b>IT professional</b> with 9 years of experience in the industry, including 6 years as a proficient Technical Writer and 3 years as a skilled <b>Azure Data Engineer</b>. Proven ability to effectively communicate complex technical concepts and design and implement data solutions on the Azure platform. Strong analytical skills, excellent attention to detail, and a consistent track record of delivering high-quality work.
